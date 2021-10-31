@@ -1,1 +1,1 @@
-Read, Delete, Update <li>
+Read, Delete, Update List
